@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+  color: var(--main);
+}
+:root{
+  --main: rgb(123,45,12);
+  --main-bg: rgb(226, 236, 209);
+}
+footer{
+  margin: 2rem;
+  color: var(--main);
+  background-color: var(--main-bg);
+}
